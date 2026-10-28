@@ -1,7 +1,7 @@
 CREATE DATABASE intern_leave_db;
 DROP DATABASE intern_leave_db;
 
-USE leave_management_db;
+USE intern_leave_db;
 
 CREATE TABLE employees (
                            id INT AUTO_INCREMENT PRIMARY KEY,
