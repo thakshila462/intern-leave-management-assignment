@@ -228,16 +228,8 @@ Update this section with the actual design decisions and challenges encountered 
 
 Add screenshots of the working application to demonstrate its main features.
 
-Recommended screenshots:
+(The application screenshots are available in the `assets` folder.)
 
-- Employee Management page-
-- signin
-- signup
-- Leave Request submission form
-- Leave Requests table
-- Administrator approval and rejection actions
-
-Store the screenshots in a project folder, such as `screenshots/`, and reference the actual image files here.
 
 ## 14. Security Notes
 
