@@ -1,8 +1,8 @@
-# Employee Leave Management System
+#  Leave Management System
 
 ## 1. Project Overview
 
-The Employee Leave Management System is a full-stack web application developed for the Software Engineering Intern technical assignment at Omibits (Pvt) Ltd.
+The  Leave Management System is a full-stack web application developed for the Software Engineering Intern technical assignment at Omibits (Pvt) Ltd.
 
 The system allows users to manage employee information and leave requests. Administrators can review pending leave requests and approve or reject them.
 
@@ -78,7 +78,7 @@ Install the following software before running the application:
 
 ## 6. Database Setup
 
-1. Start PostgreSQL.
+1. Start MySQL.
 2. Create a database for the application.
 3. Execute the SQL schema or migration files included in the project.
 4. Configure the database connection in the backend environment variables.
